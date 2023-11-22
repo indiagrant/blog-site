@@ -6,5 +6,5 @@ A very simple blog site built with Next.js to help me learn SSR and routing.
 
 To be added:
 
-Fetching from a database rather than from a JSON file.
+Fetching from a database rather than from a JSON file. <br>
 CRUD functionality, allowing the option to delete and edit blog posts.
